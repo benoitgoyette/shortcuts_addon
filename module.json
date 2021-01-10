@@ -1,7 +1,7 @@
 {
   "name": "shortcuts",
   "title": "shortcuts",
-  "description": "a simple plugin to handle some preconfigured shortcuts",
+  "description": "A simple plugin to handle some preconfigured shortcuts",
   "version": "0.0.1",
   "author": "Benoit Goyette",
   "scripts": [
@@ -10,6 +10,6 @@
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
   "url": "https://github.com/benoitgoyette/shortcuts_addon/",
-  "manifest": "https://github.com/benoitgoyette/shortcuts_addon/blob/master/module.json",
-  "download": "https://github.com/benoitgoyette/shortcuts_addon/blob/archive/master.zip"
+  "manifest": "https://raw.githubusercontent.com/benoitgoyette/shortcuts_addon/master/module.json",
+  "download": "https://raw.githubusercontent.com/benoitgoyette/shortcuts_addon/master/archive/master.zip"
 }
