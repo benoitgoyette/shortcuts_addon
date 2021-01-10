@@ -11,5 +11,5 @@
   "compatibleCoreVersion": "0.7.9",
   "url": "https://github.com/benoitgoyette/shortcuts_addon/",
   "manifest": "https://raw.githubusercontent.com/benoitgoyette/shortcuts_addon/master/module.json",
-  "download": "https://raw.githubusercontent.com/benoitgoyette/shortcuts_addon/master/archive/master.zip"
+  "download": "https://github.com/benoitgoyette/shortcuts_addon/blob/master/archive/shortcuts.zip?raw=true"
 }
